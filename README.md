@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @M1CH4L69
-- 👀 I’m interested in aviation, self development and money
+- 👋 Hi, I’m Michal
+- 👀 I’m interested in aviation, self development and driving
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on projects or application
 - ⚡ Fun fact: It's simple but not easy
-
-<!---
-M1CH4L69/M1CH4L69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
